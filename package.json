@@ -1,0 +1,15 @@
+{
+  "name": "cpu_beacon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "os-utils": "0.0.14",
+    "request": "^2.85.0"
+  }
+}

@@ -1,0 +1,2 @@
+exports.cpu = function () {
+ return 
